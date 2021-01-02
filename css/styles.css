@@ -33,12 +33,12 @@ p{
 
 /* Sections */
 .colored-section {
-  background-color: #ff4c68;
-  color: #fff;
+  background-color: rgb(255, 76, 104);
+  color: rgb(255, 255, 255);
 }
 
 .white-section {
-  background-color: #fff;
+  background-color: rgb(255, 255, 255);
 }
 
 /* Navigation bar */
@@ -94,12 +94,12 @@ p{
 }
 
 .features-icons{
-  color: #ef8172;
+  color: rgb(239, 129, 114);
   margin-bottom: 1rem;
 }
 
 .features-icons:hover{
-  color: #ff4c68;
+  color: rgb(255, 76, 104);
 }
 
 .feature-title {
@@ -109,7 +109,7 @@ p{
 
 /* Testimonials */
 #testimonials {;
-  background-color: #ef8172;
+  background-color: rgb(239, 129, 114);
 }
 
 .testimonial-image{
@@ -126,7 +126,7 @@ p{
 
 /* Press */
 #press{
-  background-color: #ef8172;
+  background-color: rgb(239, 129, 114);
   padding-bottom: 3%;
 }
 
@@ -173,7 +173,7 @@ p{
 
 /* Footer */
 #footer{
-  background-color: #fff;
+  background-color: rgb(255, 255, 255);
 }
 
 .soc-med-icons{
